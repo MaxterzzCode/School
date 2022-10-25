@@ -38,3 +38,46 @@ img {
     background-color: red;
     color: fuchsia;
 }
+
+.magentafarb {
+    background-color: green;
+}
+
+.blaufarb {
+    background-color: blue;
+}
+
+.weissfarb {
+    background-color: white;
+}
+
+.gelbfarb {
+    background-color: yellow;
+}
+
+.magentafarb {
+    background-color: magenta;
+}
+
+.schwarzfarb {
+    background-color: black;
+}
+
+.gruenfarb {
+    background-color: green;
+}
+
+.cyanfarb {
+    background-color: cyan;
+}
+
+.graufarb {
+    background-color: #666666;
+}
+.lgraufarb {
+    background-color: #999999;
+}
+
+.llgraufarb {
+    background-color: #cccccc;
+}
