@@ -1,12 +1,12 @@
  body {
-  background-color: #ff99cc;
+  background-color: white;
  }
  h1 {
-  background-color: #cc33ff;
+  background-color: red;
   text-align: center;
   color: #ffffff;
-  -webkit-text-stroke:  1.5px  #000000;
-  font-family: cursive, serif;
+  text-decoration:  1.5px  #000000;
+  font-family:'Times New Roman', Times, serif;
 
  }
  h2 {
@@ -22,62 +22,74 @@ td {
 }
 table {
 	background-color: #ffffff;
-   border-spacing: 0px;
+    border-spacing: 0px;
+    
+   
+ 
 }
 h2 {
-    font-family: cursive, serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 td {
     font-family: monospace;
 }
-img {
-    align-content: right;
-}
 
-.rotfarb {
+.spaltenfarbe {
+ background-color:#ffccff ;
+}
+.spalta {
+    background-color:#c549c5 ;
+}
+hr {
+    background-color:#ffccff ;
+}
+.platz {
+    width: 40px;
+}
+.rot {
     background-color: red;
-    color: fuchsia;
 }
-
-.magentafarb {
-    background-color: green;
-}
-
-.blaufarb {
+.blau {
     background-color: blue;
 }
-
-.weissfarb {
-    background-color: white;
-}
-
-.gelbfarb {
-    background-color: yellow;
-}
-
-.magentafarb {
-    background-color: magenta;
-}
-
-.schwarzfarb {
-    background-color: black;
-}
-
-.gruenfarb {
+.grün {
     background-color: green;
 }
-
-.cyanfarb {
+.schwarz {
+    background-color: black;
+}
+.weiß {
+    background-color: white;
+}
+.gelb {
+    background-color: yellow;
+}
+.magenta {
+    background-color: magenta;
+}
+.cyan{
     background-color: cyan;
 }
-
-.graufarb {
+.grau1 {
+    background-color: #333333;
+}
+.grau2 {
     background-color: #666666;
 }
-.lgraufarb {
+.grau3 {
     background-color: #999999;
 }
-
-.llgraufarb {
-    background-color: #cccccc;
+.grau4 {
+    background-color: #CCCCCC;
+}
+img {
+    float: right;
+    
+}
+.bild {
+    background-color:#ff99cc ;
+    
+}
+.Sz {
+    background-color: #ffccff;
 }
