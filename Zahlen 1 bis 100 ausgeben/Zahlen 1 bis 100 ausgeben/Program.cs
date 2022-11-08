@@ -6,9 +6,9 @@
         {
             for (int zahl = 0; zahl <= 100; ++zahl)
                 if (zahl == 100)
-                    Console.WriteLine("{0}", zahl);
+                    Console.Write("{0}", zahl);
                 else
-                    Console.WriteLine("{0},", zahl);
+                    Console.Write("{0},", zahl);
         }
     }
 }
