@@ -1,95 +1,88 @@
- body {
+body {
   background-color: white;
- }
- h1 {
+}
+h1 {
   background-color: lightblue;
   text-align: center;
   color: #ffffff;
-  text-decoration:  1.5px  #000000;
-  font-family:'Times New Roman', Times, serif;
-
- }
- h2 {
-  background-color: #ffccff;
-  text-align: center;
- }
- h3 {
-  background-color: #ffccff;
- ;
- }
-td {
-	border: 3px solid #000000;
-}
-table {
-	background-color: #ffffff;
-    border-spacing: 0px;
-    
-   
- 
+  text-decoration: 1.5px #000000;
+  font-family: "Times New Roman", Times, serif;
 }
 h2 {
-    font-family: Arial, Helvetica, sans-serif;
+  background-color: #ffccff;
+  text-align: center;
+}
+h3 {
+  background-color: #ffccff;
 }
 td {
-    font-family: monospace;
+  border: 3px solid #000000;
+}
+table {
+  background-color: #ffffff;
+  border-spacing: 0px;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+td {
+  font-family: monospace;
 }
 
 .spaltenfarbe {
- background-color:#ffccff ;
+  background-color: #ffccff;
 }
 .spalta {
-    background-color:#c549c5 ;
+  background-color: #c549c5;
 }
 hr {
-    background-color:#ffccff ;
+  background-color: #ffccff;
 }
 .platz {
-    width: 40px;
+  width: 40px;
 }
 .rot {
-    background-color: red;
+  background-color: red;
 }
 .blau {
-    background-color: blue;
+  background-color: blue;
 }
 .grün {
-    background-color: green;
+  background-color: green;
 }
 .schwarz {
-    background-color: black;
+  background-color: black;
 }
 .weiß {
-    background-color: white;
+  background-color: white;
 }
 .gelb {
-    background-color: yellow;
+  background-color: yellow;
 }
 .magenta {
-    background-color: magenta;
+  background-color: magenta;
 }
-.cyan{
-    background-color: cyan;
+.cyan {
+  background-color: cyan;
 }
 .grau1 {
-    background-color: #333333;
+  background-color: #333333;
 }
 .grau2 {
-    background-color: #666666;
+  background-color: #666666;
 }
 .grau3 {
-    background-color: #999999;
+  background-color: #999999;
 }
 .grau4 {
-    background-color: #CCCCCC;
+  background-color: #cccccc;
 }
 img {
-    float: right;
-    
+  float: right;
 }
 .bild {
-    background-color:#ff99cc ;
-    
+  background-color: #ff99cc;
 }
 .Sz {
-    background-color: #ffccff;
+  background-color: #ffccff;
 }
