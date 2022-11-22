@@ -1,0 +1,11 @@
+C:\Users\22.winter.maximil\source\repos\Zerfallsrate\Zerfallsrate\bin\Debug\netcoreapp2.2\Zerfallsrate.deps.json
+C:\Users\22.winter.maximil\source\repos\Zerfallsrate\Zerfallsrate\bin\Debug\netcoreapp2.2\Zerfallsrate.runtimeconfig.json
+C:\Users\22.winter.maximil\source\repos\Zerfallsrate\Zerfallsrate\bin\Debug\netcoreapp2.2\Zerfallsrate.runtimeconfig.dev.json
+C:\Users\22.winter.maximil\source\repos\Zerfallsrate\Zerfallsrate\bin\Debug\netcoreapp2.2\Zerfallsrate.dll
+C:\Users\22.winter.maximil\source\repos\Zerfallsrate\Zerfallsrate\bin\Debug\netcoreapp2.2\Zerfallsrate.pdb
+C:\Users\22.winter.maximil\source\repos\Zerfallsrate\Zerfallsrate\obj\Debug\netcoreapp2.2\Zerfallsrate.csproj.CoreCompileInputs.cache
+C:\Users\22.winter.maximil\source\repos\Zerfallsrate\Zerfallsrate\obj\Debug\netcoreapp2.2\Zerfallsrate.AssemblyInfoInputs.cache
+C:\Users\22.winter.maximil\source\repos\Zerfallsrate\Zerfallsrate\obj\Debug\netcoreapp2.2\Zerfallsrate.AssemblyInfo.cs
+C:\Users\22.winter.maximil\source\repos\Zerfallsrate\Zerfallsrate\obj\Debug\netcoreapp2.2\Zerfallsrate.dll
+C:\Users\22.winter.maximil\source\repos\Zerfallsrate\Zerfallsrate\obj\Debug\netcoreapp2.2\Zerfallsrate.pdb
+C:\Users\22.winter.maximil\source\repos\Zerfallsrate\Zerfallsrate\obj\Debug\netcoreapp2.2\Zerfallsrate.csprojAssemblyReference.cache
