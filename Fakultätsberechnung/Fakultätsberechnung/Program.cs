@@ -6,7 +6,6 @@ namespace Fakultätsberechnung
     {
         static void Main(string[] args)
         {
-            int sum = 0;
             int n = 1;
             int input;
            
