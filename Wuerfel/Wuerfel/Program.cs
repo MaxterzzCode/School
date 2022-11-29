@@ -21,6 +21,7 @@ namespace Wuerfel
             } while (zahl < 6);
             Console.WriteLine("");
             Console.WriteLine("Summe = " + zahl1);
+            //würfel
         }
     }
 }
