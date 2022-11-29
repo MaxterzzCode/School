@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Github Repos\\MaxterzzOnCoding\\School\\Wuerfel\\Wuerfel\\Wuerfel.csproj": {}
+    "H:\\Eigene Dateien\\Visual Studio Projekte\\C#\\Wuerfel\\Wuerfel\\Wuerfel.csproj": {}
   },
   "projects": {
-    "F:\\Github Repos\\MaxterzzOnCoding\\School\\Wuerfel\\Wuerfel\\Wuerfel.csproj": {
+    "H:\\Eigene Dateien\\Visual Studio Projekte\\C#\\Wuerfel\\Wuerfel\\Wuerfel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Github Repos\\MaxterzzOnCoding\\School\\Wuerfel\\Wuerfel\\Wuerfel.csproj",
+        "projectUniqueName": "H:\\Eigene Dateien\\Visual Studio Projekte\\C#\\Wuerfel\\Wuerfel\\Wuerfel.csproj",
         "projectName": "Wuerfel",
-        "projectPath": "F:\\Github Repos\\MaxterzzOnCoding\\School\\Wuerfel\\Wuerfel\\Wuerfel.csproj",
-        "packagesPath": "C:\\Users\\maxim\\.nuget\\packages\\",
-        "outputPath": "F:\\Github Repos\\MaxterzzOnCoding\\School\\Wuerfel\\Wuerfel\\obj\\",
+        "projectPath": "H:\\Eigene Dateien\\Visual Studio Projekte\\C#\\Wuerfel\\Wuerfel\\Wuerfel.csproj",
+        "packagesPath": "C:\\Users\\22.winter.maximil\\.nuget\\packages\\",
+        "outputPath": "H:\\Eigene Dateien\\Visual Studio Projekte\\C#\\Wuerfel\\Wuerfel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\maxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\22.winter.maximil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,7 +29,6 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
-            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -42,7 +40,6 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -52,17 +49,10 @@
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     }
