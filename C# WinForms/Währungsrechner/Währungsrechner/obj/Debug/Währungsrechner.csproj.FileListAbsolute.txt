@@ -1,0 +1,10 @@
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Währungsrechner\Währungsrechner\bin\Debug\Währungsrechner.exe.config
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Währungsrechner\Währungsrechner\bin\Debug\Währungsrechner.exe
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Währungsrechner\Währungsrechner\bin\Debug\Währungsrechner.pdb
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Währungsrechner\Währungsrechner\obj\Debug\Währungsrechner.csprojAssemblyReference.cache
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Währungsrechner\Währungsrechner\obj\Debug\Währungsrechner.Form1.resources
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Währungsrechner\Währungsrechner\obj\Debug\Währungsrechner.Properties.Resources.resources
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Währungsrechner\Währungsrechner\obj\Debug\Währungsrechner.csproj.GenerateResource.cache
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Währungsrechner\Währungsrechner\obj\Debug\Währungsrechner.csproj.CoreCompileInputs.cache
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Währungsrechner\Währungsrechner\obj\Debug\Währungsrechner.exe
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Währungsrechner\Währungsrechner\obj\Debug\Währungsrechner.pdb
