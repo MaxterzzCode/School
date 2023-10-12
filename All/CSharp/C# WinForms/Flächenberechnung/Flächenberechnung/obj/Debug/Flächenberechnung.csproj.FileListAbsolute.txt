@@ -1,0 +1,10 @@
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Flächenberechnung\Flächenberechnung\bin\Debug\Flächenberechnung.exe.config
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Flächenberechnung\Flächenberechnung\bin\Debug\Flächenberechnung.exe
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Flächenberechnung\Flächenberechnung\bin\Debug\Flächenberechnung.pdb
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Flächenberechnung\Flächenberechnung\obj\Debug\Flächenberechnung.csprojAssemblyReference.cache
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Flächenberechnung\Flächenberechnung\obj\Debug\Flächenberechnung.Form1.resources
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Flächenberechnung\Flächenberechnung\obj\Debug\Flächenberechnung.Properties.Resources.resources
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Flächenberechnung\Flächenberechnung\obj\Debug\Flächenberechnung.csproj.GenerateResource.cache
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Flächenberechnung\Flächenberechnung\obj\Debug\Flächenberechnung.csproj.CoreCompileInputs.cache
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Flächenberechnung\Flächenberechnung\obj\Debug\Flächenberechnung.exe
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Flächenberechnung\Flächenberechnung\obj\Debug\Flächenberechnung.pdb

@@ -1,0 +1,10 @@
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Unterprogramme\Unterprogramme mit Parameter\Unterprogramme mit Parameter\Unterprogramme mit Parameter\bin\Debug\Unterprogramme mit Parameter.exe.config
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Unterprogramme\Unterprogramme mit Parameter\Unterprogramme mit Parameter\Unterprogramme mit Parameter\bin\Debug\Unterprogramme mit Parameter.exe
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Unterprogramme\Unterprogramme mit Parameter\Unterprogramme mit Parameter\Unterprogramme mit Parameter\bin\Debug\Unterprogramme mit Parameter.pdb
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Unterprogramme\Unterprogramme mit Parameter\Unterprogramme mit Parameter\Unterprogramme mit Parameter\obj\Debug\Unterprogramme mit Parameter.csprojAssemblyReference.cache
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Unterprogramme\Unterprogramme mit Parameter\Unterprogramme mit Parameter\Unterprogramme mit Parameter\obj\Debug\Unterprogramme_mit_Parameter.Form1.resources
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Unterprogramme\Unterprogramme mit Parameter\Unterprogramme mit Parameter\Unterprogramme mit Parameter\obj\Debug\Unterprogramme_mit_Parameter.Properties.Resources.resources
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Unterprogramme\Unterprogramme mit Parameter\Unterprogramme mit Parameter\Unterprogramme mit Parameter\obj\Debug\Unterprogramme mit Parameter.csproj.GenerateResource.cache
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Unterprogramme\Unterprogramme mit Parameter\Unterprogramme mit Parameter\Unterprogramme mit Parameter\obj\Debug\Unterprogramme mit Parameter.csproj.CoreCompileInputs.cache
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Unterprogramme\Unterprogramme mit Parameter\Unterprogramme mit Parameter\Unterprogramme mit Parameter\obj\Debug\Unterprogramme mit Parameter.exe
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Unterprogramme\Unterprogramme mit Parameter\Unterprogramme mit Parameter\Unterprogramme mit Parameter\obj\Debug\Unterprogramme mit Parameter.pdb

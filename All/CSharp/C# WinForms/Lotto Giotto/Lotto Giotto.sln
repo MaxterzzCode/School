@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lotto Giotto", "Lotto Giotto\Lotto Giotto.csproj", "{7794EAC7-D1AC-43E8-8396-D03EBFFF3047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7794EAC7-D1AC-43E8-8396-D03EBFFF3047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7794EAC7-D1AC-43E8-8396-D03EBFFF3047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7794EAC7-D1AC-43E8-8396-D03EBFFF3047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7794EAC7-D1AC-43E8-8396-D03EBFFF3047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE386FBD-3DCD-4D5C-A6D9-E3B296816ED7}
+	EndGlobalSection
+EndGlobal
