@@ -1,0 +1,88 @@
+body {
+  background-color: gray;
+}
+h1 {
+  background-color: lightblue;
+  text-align: center;
+  color: black;
+  text-decoration: 1.5px #000000;
+  font-family: "Times New Roman", Times, serif;
+}
+h2 {
+  background-color: #ffccff;
+  text-align: center;
+}
+h3 {
+  background-color: #ffccff;
+}
+td {
+  border: 3px solid #000000;
+}
+table {
+  background-color: #ffffff;
+  border-spacing: 0px;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+td {
+  font-family: monospace;
+}
+
+.spaltenfarbe {
+  background-color: #ffccff;
+}
+.spalta {
+  background-color: #c549c5;
+}
+hr {
+  background-color: #ffccff;
+}
+.platz {
+  width: 40px;
+}
+.rot {
+  background-color: red;
+}
+.blau {
+  background-color: blue;
+}
+.grün {
+  background-color: green;
+}
+.schwarz {
+  background-color: black;
+}
+.weiß {
+  background-color: white;
+}
+.gelb {
+  background-color: yellow;
+}
+.magenta {
+  background-color: magenta;
+}
+.cyan {
+  background-color: cyan;
+}
+.grau1 {
+  background-color: #333333;
+}
+.grau2 {
+  background-color: #666666;
+}
+.grau3 {
+  background-color: #999999;
+}
+.grau4 {
+  background-color: #cccccc;
+}
+img {
+  float: right;
+}
+.bild {
+  background-color: #ff99cc;
+}
+.Sz {
+  background-color: #ffccff;
+}

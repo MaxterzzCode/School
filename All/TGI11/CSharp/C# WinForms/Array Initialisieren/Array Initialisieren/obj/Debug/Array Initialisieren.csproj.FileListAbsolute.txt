@@ -1,0 +1,10 @@
+\\sp01\mldata\benutzer\sus\22.winter.maximil\Eigene Dateien\Visual Studio Projekte\C# WinForms\Array Initialisieren\Array Initialisieren\bin\Debug\Array Initialisieren.exe.config
+\\sp01\mldata\benutzer\sus\22.winter.maximil\Eigene Dateien\Visual Studio Projekte\C# WinForms\Array Initialisieren\Array Initialisieren\bin\Debug\Array Initialisieren.exe
+\\sp01\mldata\benutzer\sus\22.winter.maximil\Eigene Dateien\Visual Studio Projekte\C# WinForms\Array Initialisieren\Array Initialisieren\bin\Debug\Array Initialisieren.pdb
+\\sp01\mldata\benutzer\sus\22.winter.maximil\Eigene Dateien\Visual Studio Projekte\C# WinForms\Array Initialisieren\Array Initialisieren\obj\Debug\Array Initialisieren.csprojAssemblyReference.cache
+\\sp01\mldata\benutzer\sus\22.winter.maximil\Eigene Dateien\Visual Studio Projekte\C# WinForms\Array Initialisieren\Array Initialisieren\obj\Debug\Array_Initialisieren.Form1.resources
+\\sp01\mldata\benutzer\sus\22.winter.maximil\Eigene Dateien\Visual Studio Projekte\C# WinForms\Array Initialisieren\Array Initialisieren\obj\Debug\Array_Initialisieren.Properties.Resources.resources
+\\sp01\mldata\benutzer\sus\22.winter.maximil\Eigene Dateien\Visual Studio Projekte\C# WinForms\Array Initialisieren\Array Initialisieren\obj\Debug\Array Initialisieren.csproj.GenerateResource.cache
+\\sp01\mldata\benutzer\sus\22.winter.maximil\Eigene Dateien\Visual Studio Projekte\C# WinForms\Array Initialisieren\Array Initialisieren\obj\Debug\Array Initialisieren.csproj.CoreCompileInputs.cache
+\\sp01\mldata\benutzer\sus\22.winter.maximil\Eigene Dateien\Visual Studio Projekte\C# WinForms\Array Initialisieren\Array Initialisieren\obj\Debug\Array Initialisieren.exe
+\\sp01\mldata\benutzer\sus\22.winter.maximil\Eigene Dateien\Visual Studio Projekte\C# WinForms\Array Initialisieren\Array Initialisieren\obj\Debug\Array Initialisieren.pdb
