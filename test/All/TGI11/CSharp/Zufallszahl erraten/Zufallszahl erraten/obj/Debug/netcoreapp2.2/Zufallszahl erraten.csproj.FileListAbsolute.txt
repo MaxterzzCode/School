@@ -1,0 +1,11 @@
+H:\Eigene Dateien\Visual Studio Projekte\C#\Zufallszahl erraten\Zufallszahl erraten\bin\Debug\netcoreapp2.2\Zufallszahl erraten.deps.json
+H:\Eigene Dateien\Visual Studio Projekte\C#\Zufallszahl erraten\Zufallszahl erraten\bin\Debug\netcoreapp2.2\Zufallszahl erraten.runtimeconfig.json
+H:\Eigene Dateien\Visual Studio Projekte\C#\Zufallszahl erraten\Zufallszahl erraten\bin\Debug\netcoreapp2.2\Zufallszahl erraten.runtimeconfig.dev.json
+H:\Eigene Dateien\Visual Studio Projekte\C#\Zufallszahl erraten\Zufallszahl erraten\bin\Debug\netcoreapp2.2\Zufallszahl erraten.dll
+H:\Eigene Dateien\Visual Studio Projekte\C#\Zufallszahl erraten\Zufallszahl erraten\bin\Debug\netcoreapp2.2\Zufallszahl erraten.pdb
+H:\Eigene Dateien\Visual Studio Projekte\C#\Zufallszahl erraten\Zufallszahl erraten\obj\Debug\netcoreapp2.2\Zufallszahl erraten.csprojAssemblyReference.cache
+H:\Eigene Dateien\Visual Studio Projekte\C#\Zufallszahl erraten\Zufallszahl erraten\obj\Debug\netcoreapp2.2\Zufallszahl erraten.csproj.CoreCompileInputs.cache
+H:\Eigene Dateien\Visual Studio Projekte\C#\Zufallszahl erraten\Zufallszahl erraten\obj\Debug\netcoreapp2.2\Zufallszahl erraten.AssemblyInfoInputs.cache
+H:\Eigene Dateien\Visual Studio Projekte\C#\Zufallszahl erraten\Zufallszahl erraten\obj\Debug\netcoreapp2.2\Zufallszahl erraten.AssemblyInfo.cs
+H:\Eigene Dateien\Visual Studio Projekte\C#\Zufallszahl erraten\Zufallszahl erraten\obj\Debug\netcoreapp2.2\Zufallszahl erraten.dll
+H:\Eigene Dateien\Visual Studio Projekte\C#\Zufallszahl erraten\Zufallszahl erraten\obj\Debug\netcoreapp2.2\Zufallszahl erraten.pdb

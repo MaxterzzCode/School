@@ -1,0 +1,20 @@
+\\sp01\mldata\benutzer\sus\22.winter.maximil\Eigene Dateien\Visual Studio Projekte\C# WinForms\Lotto Giotto\Lotto Giotto\obj\Debug\Lotto Giotto.csprojAssemblyReference.cache
+\\sp01\mldata\benutzer\sus\22.winter.maximil\Eigene Dateien\Visual Studio Projekte\C# WinForms\Lotto Giotto\Lotto Giotto\obj\Debug\Lotto_Giotto.Form.resources
+\\sp01\mldata\benutzer\sus\22.winter.maximil\Eigene Dateien\Visual Studio Projekte\C# WinForms\Lotto Giotto\Lotto Giotto\obj\Debug\Lotto_Giotto.Properties.Resources.resources
+\\sp01\mldata\benutzer\sus\22.winter.maximil\Eigene Dateien\Visual Studio Projekte\C# WinForms\Lotto Giotto\Lotto Giotto\obj\Debug\Lotto Giotto.csproj.GenerateResource.cache
+\\sp01\mldata\benutzer\sus\22.winter.maximil\Eigene Dateien\Visual Studio Projekte\C# WinForms\Lotto Giotto\Lotto Giotto\obj\Debug\Lotto Giotto.csproj.CoreCompileInputs.cache
+\\sp01\mldata\benutzer\sus\22.winter.maximil\Eigene Dateien\Visual Studio Projekte\C# WinForms\Lotto Giotto\Lotto Giotto\bin\Debug\Lotto Giotto.exe.config
+\\sp01\mldata\benutzer\sus\22.winter.maximil\Eigene Dateien\Visual Studio Projekte\C# WinForms\Lotto Giotto\Lotto Giotto\bin\Debug\Lotto Giotto.exe
+\\sp01\mldata\benutzer\sus\22.winter.maximil\Eigene Dateien\Visual Studio Projekte\C# WinForms\Lotto Giotto\Lotto Giotto\bin\Debug\Lotto Giotto.pdb
+\\sp01\mldata\benutzer\sus\22.winter.maximil\Eigene Dateien\Visual Studio Projekte\C# WinForms\Lotto Giotto\Lotto Giotto\obj\Debug\Lotto Giotto.exe
+\\sp01\mldata\benutzer\sus\22.winter.maximil\Eigene Dateien\Visual Studio Projekte\C# WinForms\Lotto Giotto\Lotto Giotto\obj\Debug\Lotto Giotto.pdb
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Lotto Giotto\Lotto Giotto\bin\Debug\Lotto Giotto.exe.config
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Lotto Giotto\Lotto Giotto\bin\Debug\Lotto Giotto.exe
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Lotto Giotto\Lotto Giotto\bin\Debug\Lotto Giotto.pdb
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Lotto Giotto\Lotto Giotto\obj\Debug\Lotto Giotto.csprojAssemblyReference.cache
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Lotto Giotto\Lotto Giotto\obj\Debug\Lotto_Giotto.Form.resources
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Lotto Giotto\Lotto Giotto\obj\Debug\Lotto_Giotto.Properties.Resources.resources
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Lotto Giotto\Lotto Giotto\obj\Debug\Lotto Giotto.csproj.GenerateResource.cache
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Lotto Giotto\Lotto Giotto\obj\Debug\Lotto Giotto.csproj.CoreCompileInputs.cache
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Lotto Giotto\Lotto Giotto\obj\Debug\Lotto Giotto.exe
+H:\Eigene Dateien\Visual Studio Projekte\C# WinForms\Lotto Giotto\Lotto Giotto\obj\Debug\Lotto Giotto.pdb
