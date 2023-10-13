@@ -1,0 +1,11 @@
+H:\Eigene Dateien\Visual Studio Projekte\C#\Hallo, Welt!\Hallo, Welt!\bin\Debug\netcoreapp2.2\Hallo, Welt!.deps.json
+H:\Eigene Dateien\Visual Studio Projekte\C#\Hallo, Welt!\Hallo, Welt!\bin\Debug\netcoreapp2.2\Hallo, Welt!.runtimeconfig.json
+H:\Eigene Dateien\Visual Studio Projekte\C#\Hallo, Welt!\Hallo, Welt!\bin\Debug\netcoreapp2.2\Hallo, Welt!.runtimeconfig.dev.json
+H:\Eigene Dateien\Visual Studio Projekte\C#\Hallo, Welt!\Hallo, Welt!\bin\Debug\netcoreapp2.2\Hallo, Welt!.dll
+H:\Eigene Dateien\Visual Studio Projekte\C#\Hallo, Welt!\Hallo, Welt!\bin\Debug\netcoreapp2.2\Hallo, Welt!.pdb
+H:\Eigene Dateien\Visual Studio Projekte\C#\Hallo, Welt!\Hallo, Welt!\obj\Debug\netcoreapp2.2\Hallo, Welt!.csprojAssemblyReference.cache
+H:\Eigene Dateien\Visual Studio Projekte\C#\Hallo, Welt!\Hallo, Welt!\obj\Debug\netcoreapp2.2\Hallo, Welt!.csproj.CoreCompileInputs.cache
+H:\Eigene Dateien\Visual Studio Projekte\C#\Hallo, Welt!\Hallo, Welt!\obj\Debug\netcoreapp2.2\Hallo, Welt!.AssemblyInfoInputs.cache
+H:\Eigene Dateien\Visual Studio Projekte\C#\Hallo, Welt!\Hallo, Welt!\obj\Debug\netcoreapp2.2\Hallo, Welt!.AssemblyInfo.cs
+H:\Eigene Dateien\Visual Studio Projekte\C#\Hallo, Welt!\Hallo, Welt!\obj\Debug\netcoreapp2.2\Hallo, Welt!.dll
+H:\Eigene Dateien\Visual Studio Projekte\C#\Hallo, Welt!\Hallo, Welt!\obj\Debug\netcoreapp2.2\Hallo, Welt!.pdb
