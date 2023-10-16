@@ -1,12 +1,11 @@
 body
 {
-    margin: 0px;
+    margin: 2px;
     padding: 10px;
     background-color: blanchedalmond;
     font-family: Arial, Helvetica, sans-serif;
     border: solid black 5px;
     height: calc( 100vh - 10px);
-    
 }
 
 h1 
@@ -14,3 +13,7 @@ h1
     text-align: center;    
 } 
 
+hr
+{
+    border: solid black 1px;
+}
