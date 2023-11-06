@@ -1,12 +1,12 @@
 body {
   background-color: gray;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h1 {
   background-color: lightblue;
   text-align: center;
   color: black;
   text-decoration: 1.5px #000000;
-  font-family: "Times New Roman", Times, serif;
 }
 h2 {
   background-color: #ffccff;
@@ -22,19 +22,11 @@ table {
   background-color: #ffffff;
   border-spacing: 0px;
 }
-h2 {
-  font-family: Arial, Helvetica, sans-serif;
-}
-td {
-  font-family: monospace;
-}
 
 .spaltenfarbe {
   background-color: #ffccff;
 }
-.spalta {
-  background-color: #c549c5;
-}
+
 hr {
   background-color: #ffccff;
 }
