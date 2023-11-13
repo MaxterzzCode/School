@@ -1,12 +1,14 @@
 body {
   background-color: gray;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  zoom: 90%;
 }
 h1 {
   background-color: lightblue;
   text-align: center;
   color: black;
   text-decoration: 1.5px #000000;
+  padding: 10px;
 }
 h2 {
   background-color: #ffccff;
@@ -77,4 +79,17 @@ img {
 }
 .Sz {
   background-color: #ffccff;
+}
+
+.htmllink {
+  float: right;
+  margin-left: 15px;
+  background-color: #999999;
+  font-size: 20px;
+}
+
+.csslink {
+  float: right;
+  background-color: #999999;
+  font-size: 20px;
 }
